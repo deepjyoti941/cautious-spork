@@ -1,0 +1,15 @@
+
+/* global app styles go here */
+
+@import 'themes/_colors';
+
+body {
+    margin: 40px;
+    margin-top: 0px;
+    background-color: $app-background;
+    font-family: Chevin-Light,arial,Helvetica,sans-serif;
+}
+
+.editor {
+    margin: 40px;
+}
